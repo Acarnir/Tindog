@@ -1,2 +1,1 @@
-# Tindog
-Web Development Course - Bootstrap full site
+TinDog Starting Files
